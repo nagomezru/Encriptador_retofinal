@@ -48,7 +48,7 @@ Para probarlo se puede de dos maneras ya sea descargando una copia en su computa
 
 ## Autor✒️
 
-* **Nestor Andres Gomez Rueda** - *Desarrollador e Ingeniero Agricola* - [Nestor Gomez](https://www.linkedin.com/in/jeanmariequijada/)
+* **Nestor Andres Gomez Rueda** - *Desarrollador e Ingeniero Agricola* - [Nestor Gomez](https://www.linkedin.com/in/nagomezru-ing-agricola/)
 
 	
 		
